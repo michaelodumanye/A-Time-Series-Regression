@@ -1,0 +1,11 @@
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data files
+data/raw/*
+data/processed/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.env

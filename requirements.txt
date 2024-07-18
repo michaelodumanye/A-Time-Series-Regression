@@ -1,0 +1,13 @@
+pyodbc
+python-dotenv
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+plotly
+scikit-learn
+xgboost
+statsmodels
+calplot
+catboost
