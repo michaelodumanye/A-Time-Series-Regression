@@ -2,3 +2,8 @@
 data/store-sales-forecasting/train.csv filter=lfs diff=lfs merge=lfs -text
 data/store-sales-forecasting/transactions.csv filter=lfs diff=lfs merge=lfs -text
 data/test_datasets/*.csv filter=lfs diff=lfs merge=lfs -text
+data/sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+data/stores.csv filter=lfs diff=lfs merge=lfs -text
+data/df.csv filter=lfs diff=lfs merge=lfs -text
+data/holidays_events.csv filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text
